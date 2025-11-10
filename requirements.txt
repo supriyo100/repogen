@@ -17,5 +17,5 @@ pyomo
 pulp
 pyyaml
 cvxpy
-
+pandas
 -e .  
